@@ -11,7 +11,7 @@
   },
   "service-id": "9832-15976098531-32",
   "reset-database": false,
-  "database-version": "v0.0.1",
+  "database-version": "v0.0.2",
   "alpha-policy": {
     "data-stability": "unstable",
     "api-stability": "unstable",
